@@ -62,6 +62,9 @@ The program offers a menu with the following options:
 ```bash
 javac NotesManager.java
 
-<img width="248" alt="notes app" src="https://github.com/user-attachments/assets/03ff423e-1e7d-434f-8c55-7c449849533a" />
+## Screenshot
+<img width="248" alt="notes app" src="https://github.com/user-attachments/assets/a5b62de3-2d96-44cd-8bbf-c4c356d67a2f" />
+
+
 
 
